@@ -1,0 +1,21 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Maciej Kowalczyk 10454755",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.10.0",
+    "graphql": "^16.8.1",
+    "lodash": "^4.17.21",
+    "mongodb": "^6.3.0",
+    "redis": "^4.6.13",
+    "uuid": "^9.0.1",
+    "validate-date": "^2.1.0"
+  }
+}
